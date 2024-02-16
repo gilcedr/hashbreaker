@@ -73,7 +73,7 @@ void sendCondensats(int client_sockid, const char *condensatFile) {
 	printf("Condensat send to client : %s \n", hash);
         sendData(hash, client_sockid);
 
-        // Logiue: on est sûr d'envoyer le prochain hash que lorsque on a une reponse du client apr un délais else on envoie un prchn hash
+        // Logique: on est sûr d'envoyer le prochain hash que lorsque on a une reponse du client apr un délais else on envoie un prchn hash
         bool hashFound = false;
         while (!hashFound) {
             char tmp[MAX_BUFFER_SIZE];
