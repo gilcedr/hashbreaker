@@ -18,7 +18,7 @@ Client : gcc -o client hashBreaker.c stringHash.c gil_design.c -lssl –lcrypto
 
 # (level easy for compilation) : §§§§ !!!!!!!   COMPILEZ FACILEMENT EN JUSTE GIT CLONANT EN VOUS RASSURANT QUE LE MAKEFILE SOIT DANS LE REPERTOIRE COURANT AVEC LES 7 AUTRES FICHIERS ET RUN "make" pour linux !!!!!!!!!!!!!!!!!!!
 
-# just git clone the repository four your directory with the MakeFIle and just run "make" and linux will automatically compiled)
+# just git clone the repository for your directory else with the MakeFIle and other files programm just run "make" and linux will automatically compiled)
 
 ==========================================================================================================================================================================================================================================
 
