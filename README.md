@@ -6,7 +6,7 @@ demande en lui transmettant le hash qu’il prend en paramètre. Le client reço
 reçus. Le nom du fichier est “hashFound.txt”.
 
 ====================================================================================== BE CAREFUL ======================================================================================================================================
-Dépendances :
+# Dépendances :
 
 Si vous ne disposez pas d’OpenSSL qui est une bibliothèque à usage cryptographique :
     • sudo apt-get update
@@ -16,9 +16,9 @@ Compilation du programme (level hard):
 Server : gcc -o server serverBreaker.c designServer.c
 Client : gcc -o client hashBreaker.c stringHash.c gil_design.c -lssl –lcrypto
 
-(level easy for compilation) : §§§§ !!!!!!!   COMPILEZ FACILEMENT EN JUSTE GIT CLONANT EN VOUS RASSURANT QUE LE MAKEFILE SOIT DANS LE REPERTOIRE COURANT AVEC LES 7 AUTRES FICHIERS ET RUN "make" pour linux !!!!!!!!!!!!!!!!!!!
+# (level easy for compilation) : §§§§ !!!!!!!   COMPILEZ FACILEMENT EN JUSTE GIT CLONANT EN VOUS RASSURANT QUE LE MAKEFILE SOIT DANS LE REPERTOIRE COURANT AVEC LES 7 AUTRES FICHIERS ET RUN "make" pour linux !!!!!!!!!!!!!!!!!!!
 
-just git clone the repository four your directory with the MakeFIle and just run "make" and linux will automatically compiled)
+# just git clone the repository four your directory with the MakeFIle and just run "make" and linux will automatically compiled)
 
 ==========================================================================================================================================================================================================================================
 
