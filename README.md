@@ -1,4 +1,4 @@
-# README (Just for Distribution KALI LINUX/UBUNTU/DEBIAN):
+# README (Just for Distribution KALI LINUX/UBUNTU/DEBIAN)
 
 Le programme développé ici est un Hashbreaker qui rentre comme projet de BAC 2 Dévelopement option "Sécurité des Systèmes" HENALLUX programmé entièrement par gil_cedrick utilisant une architecture client-serveur. Le
 client se charge d’effectuer une demande de condensat (l'utilisateur aura la possibilité d'interagir avec le server-client pour saisir des entrées manuellement afin d'établir le handshake et le reste se fera automatiquement fin la programmation séquentiel sous forme décentralisé fera le reste)
