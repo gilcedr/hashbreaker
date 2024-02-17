@@ -8,7 +8,7 @@ Le client attendra une entrée manuelle "demande de hash" et automatiquement le 
 "hashFound.txt" qui est crée automatiquement  et le processus se reproduit en boucle donc vous aurez juste à consultez tous les hashs break dans le fichier le programme travail pour vous et la logique du break est unique car il émane de mes skills en mathématiques et probabilités issu d'un Baccalauréat scientifique série C "Sciences" et après plusieurs semaines de comment break un hash facilement avec gain de temps tout en parcourant une exploration alors j'ai découvert que il est plus facile si on a 5 ou 7 caractères de préfixé le premier aini ne plus le faire bouger prennons le cas de 7 caractères débutant par A faire balayer récursirvement 6 caractères en testant toutes combinaison possible de façon récursive en un moment on trouvera le bon hash la durée peut dépendre de la longueur des caractères éffectivement c'est pour çaque la prochaine version update le programme Server prendra en charge un Bot de machine Cliente qui se diviseront le temps de calcul chaçun aura pour rôle de se consacrer à un seul indexes des 26 lettres tout en salant le reste des préfixes des Majuscules, minuscile, numéro, caractère spéciaux en version payante ou gratuite on vera bien pout le moment Good Ethical HashHacking. 
 reçus.
 
-========================================================================================================= BE CAREFUL ======================================================================================================================================
+
 # Dépendances :
 
 Si vous ne disposez pas d’OpenSSL qui est une bibliothèque à usage cryptographique :
