@@ -23,9 +23,8 @@ Client : gcc -o client hashBreaker.c stringHash.c gil_design.c -lssl –lcrypto
 
 # just git clone the repository for your directory else with the MakeFIle and other files programm just run "make" and linux will automatically compiled)
 
-==========================================================================================================================================================================================================================================================
 
-Fonctionnement de mon programme :
+# Fonctionnement de mon programme :
 
 Le Server prend en paramètre l’adresse ip, le port et une liste de hash.
 Le Client prend en paramètre l’adresse ip , le port.
